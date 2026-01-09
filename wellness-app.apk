@@ -1,0 +1,3 @@
+APK Placeholder - React WebView App
+Contents: frontend/build/ folder
+To generate: zip frontend/build/ and rename to .apk
