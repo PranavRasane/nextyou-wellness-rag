@@ -1,2 +1,6 @@
-# nextyou-wellness-rag
-RAG-based wellness micro-application: Ask Me Anything About Yoga (NextYou Assignment)
+# NextYou – Wellness RAG Micro-App
+
+RAG-based AI micro-application that answers yoga-related questions with safety-aware recommendations.
+
+## Status
+🚧 In progress – Assignment submission
