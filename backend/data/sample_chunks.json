@@ -1,0 +1,26 @@
+{
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "article_title": "Introduction to Yoga",
+      "content": "Yoga is a 5,000-year-old practice from India that combines physical postures, breathing exercises, and meditation.",
+      "article_url": "",
+      "pose_type": "general"
+    },
+    {
+      "chunk_id": "chunk_002",
+      "article_title": "Benefits of Daily Practice",
+      "content": "Regular yoga practice improves flexibility, strength, posture, and reduces stress. It also enhances mental clarity.",
+      "article_url": "",
+      "pose_type": "general"
+    },
+    {
+      "chunk_id": "chunk_003",
+      "article_title": "Mountain Pose (Tadasana)",
+      "content": "Stand tall with feet together, weight evenly distributed. Engage thighs, lengthen spine, and relax shoulders. Breathe deeply.",
+      "article_url": "",
+      "pose_type": "beginner"
+    }
+  ],
+  "embeddings": []
+}
